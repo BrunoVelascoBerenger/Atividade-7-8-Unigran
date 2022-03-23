@@ -1,0 +1,10 @@
+main {
+    min-height: 100vh;
+    background-color: #dadfe8;
+    display: inline;
+    text-align: center;
+}
+
+.form {
+    padding: 30px 0;
+}
